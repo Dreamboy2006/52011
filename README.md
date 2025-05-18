@@ -9,7 +9,7 @@ Clona este repositorio: git clone https://github.com/Dreamboy2006/52011.git
 
 
 # Instrucciones de Uso
-
+```sh
 
 ## ¿Que hace?
 
