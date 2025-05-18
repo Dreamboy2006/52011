@@ -5,11 +5,11 @@ Este proyecto consiste en la creación de un analizador sintáctico personalizad
 
 ## Instalación
 
-Clona este repositorio: git clone https://github.com/fakinhaa/51902.git
+Clona este repositorio: git clone https://github.com/Dreamboy2006/52011.git
 
 
 # Instrucciones de Uso
-```sh
+
 
 ## ¿Que hace?
 
