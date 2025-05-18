@@ -38,4 +38,5 @@ Ejecuta el programa.
 
 ## Ejemplo
 
-![Ejemplo](https://github.com/user-attachments/assets/8a02aaaf-211e-4904-968f-ca050924753d)
+
+![Ejemplo](https://github.com/user-attachments/assets/44a1dcb8-f9e7-4cc6-94e8-3dc14edf0042)
