@@ -39,4 +39,4 @@ Ejecuta el programa.
 ## Ejemplo
 
 
-![Ejemplo](https://github.com/user-attachments/assets/44a1dcb8-f9e7-4cc6-94e8-3dc14edf0042)
+![Image](https://github.com/user-attachments/assets/5d51cee7-7147-49a7-9f09-a4c732e3db3d)
