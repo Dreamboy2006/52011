@@ -36,7 +36,4 @@ En la consola busca la direccion de la carpeta e inicia el programa con el coman
 El programa te pedira que escribas la entrada manualmente. //puedes modificarlo dentro de launch,json y cambiar la entrada por archivo.
 Ejecuta el programa.
 
-## Ejemplo
 
-
-![Image](https://github.com/user-attachments/assets/5d51cee7-7147-49a7-9f09-a4c732e3db3d)
