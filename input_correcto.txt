@@ -1,0 +1,6 @@
+cola miCola {
+    crear(["h","123","m"])!
+    encolar("n")!
+    verPrimero()!
+    desencolar()!
+}

@@ -1,0 +1,4 @@
+cola miCola {
+    crear([10,20,"m"])!
+    verPrimero()!
+}

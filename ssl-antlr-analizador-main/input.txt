@@ -1,0 +1,7 @@
+cola miCola {
+    crear([5,20,"m"])!
+   desencolar ()!
+}
+
+
+
