@@ -13,7 +13,7 @@ Clona este repositorio: git clone https://github.com/Dreamboy2006/52011.git
 
 ## ¿Que hace?
 
-- Lee un archivo de entrada (por ejemplo, input.js) o una línea de texto.
+- Lee un archivo de entrada (por ejemplo, input.txt) o una línea de texto.
 - Analiza léxica y sintácticamente la entrada para verificar si cumple las reglas del lenguaje.
 - Si es válido:
     •	Muestra los tokens reconocidos.
@@ -31,9 +31,12 @@ Clona este repositorio: git clone https://github.com/Dreamboy2006/52011.git
 
 ## Instrucciones
 
-Clona el repositorio en tu pc
-En la consola busca la direccion de la carpeta e inicia el programa con el comando "npm start".
-El programa te pedira que escribas la entrada manualmente. //puedes modificarlo dentro de launch,json y cambiar la entrada por archivo.
-Ejecuta el programa.
+1. Clona el repositorio en tu pc 
+2. En la consola busca la direccion de la carpeta e inicia el programa con el comando "npm start".
+3. Ingrese una cadena en el archivo "input.txt" y el programa lo leera. Si el programa no encuentra este archivo le pedira que ingrese manualmente una instruccion. 
+4. Ejecuta el programa.
+
+## Ejemplo de uso
+
 
 
