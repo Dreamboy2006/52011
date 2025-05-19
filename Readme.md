@@ -37,6 +37,9 @@ Clona este repositorio: git clone https://github.com/Dreamboy2006/52011.git
 4. Ejecuta el programa.
 
 ## Ejemplo de uso
+1. En cmd 
+
+
 
 
 
