@@ -9,7 +9,7 @@ async function main() {
     let input;
 // Intento leer la entrada desde el archivo input - en forma sincrónica.
     try {
-        input = fs.readFileSync('input.js', 'utf8');
+        input = fs.readFileSync('input.txt', 'utf8');
     } catch (err) { // Si no es posible leer el archivo, solicitar la entrada del usuario por teclado
         input = await leerCadena();
         console.log(input);
