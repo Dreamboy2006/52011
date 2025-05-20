@@ -32,7 +32,7 @@ Clona este repositorio: git clone https://github.com/Dreamboy2006/52011.git
 ## Instrucciones
 > [!IMPORTANT]
 > 1. Clona el repositorio en tu pc.
-> 2. Ingrese una cadena en el archivo "input.txt" que ya se encuentra en la carpeta y el programa lo leera. Si el programa no encuentra este archivo le pedira que ingrese manualmente una instruccion. 
+> 2. Ingrese una cadena en el archivo "input.txt" (que ya se encuentra en la carpeta) y el programa lo leera. Si el programa no encuentra este archivo le pedira que ingrese manualmente una instruccion. 
 > 3. En la consola busca la direccion de la carpeta e inicia el programa con el comando "npm start".
 > 4. Ejecuta el programa.
 
